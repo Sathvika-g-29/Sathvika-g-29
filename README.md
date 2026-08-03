@@ -100,14 +100,6 @@ class Sathvika:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sathvika-g-29&cache_seconds=1800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=B8A9FF&text_color=FFFFFF&rank_icon=github" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvika-g-29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" height="160"/>
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sathvika-g-29&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B9D&currStreakLabel=00D4FF)](https://git.io/streak-stats)
 
 </div>
@@ -136,16 +128,3 @@ Shri Vishnu Engineering College For Women · 2024–2028
 📈 CGPA: **9.1 / 10**
 
 ---
-
-<div align="center">
-
-<!-- Snake animation — set this up with GitHub Actions (see instructions below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sathvika-g-29/Sathvika-g-29/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sathvika-g-29/Sathvika-g-29/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sathvika-g-29/Sathvika-g-29/output/github-snake.svg" />
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
