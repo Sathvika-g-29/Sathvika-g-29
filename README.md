@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sathvika%20Geddam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20intelligent%20systems%20%7C%20RAG%20%C2%B7%20Agentic%20AI%20%C2%B7%20Python&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;RAG+Pipeline+Architect+%F0%9F%94%8D;LangChain+%2B+Agentic+AI+Builder+%E2%9A%A1;450%2B+LeetCode+%C2%B7+200-Day+Streak+%F0%9F%94%A5;Open+to+Internships+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Developer+%F0%9F%A4%96;RAG+Pipeline+Architect+%F0%9F%94%8D;LangChain+%2B+Agentic+AI+Builder+%E2%9A%A1;450%2B+LeetCode+%C2%B7+200-Day+Streak+%F0%9F%94%A5;Open+to+Internships+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
